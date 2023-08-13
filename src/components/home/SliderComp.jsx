@@ -6,6 +6,7 @@ const SliderComp = () => {
         dots: true,
         infinite: true,
         speed: 500,
+        autoplay: true,
         slidesToShow: 1,
         slidesToScroll: 1
       };
@@ -30,7 +31,7 @@ const SliderComp = () => {
                 Farklı olanlar için tasarlandı: adidas erkek ayakkabılar
                 </div>
                 <div className='text-lg my-4'>
-                Originals, adidas by Stella McCartney veya TERREX vb. serilerden hangi birisini seçersen seç spor adidas ayakkabılar ile sadece bir sonraki antrenmanında değil, antrenmana giderken de etki bırakacaksın. adidas Originals ile daima efsane olmaya devam et. Marka, rahat retro tarzına rağmen tekrar tekrar bizi statükoyu sorgulamaya teşvik ediyor. Performance, stilinden ödün vermek istemeyen sporcular için tasarlandı; bu seri net performans odaklı retro tasarımlarla öne çıkar. Koşullardan bağımsız güvenebileceğin performans ile işlevsel tasarımı bir arada mı arıyorsun? adidas Terrex, tamamen outdoor aktivitelerine odaklanmış olmasıyla en mükemmel yoldaşındır. Disney, UltraBoost ve Ozweego koleksiyonlarında spor ayakkabılar bulacaksın. NMD koleksiyonu, giyim ürünleri, ayakkabılar veya aksesuarlar ile, markamızın mirasını inovatif tasarımla bir araya getirir. Koşu stiliyle kentli görünümü yarat. adidas, sporcular ve sneaker tutkunları arasında popülerdir. İhtiyaçların doğrultusunda geliştirilmiş çeşitli modellerle seni destekliyoruz. adidas ayakkabılar, beyaz, mavi, turuncu ve birçok farklı renk seçeneğinde mevcuttur...
+                Originals, adidas by Stella McCartney veya TERREX vb. serilerden hangi birisini seçersen seç spor adidas ayakkabılar ile sadece bir sonraki antrenmanında değil, antrenmana giderken de etki bırakacaksın. adidas Originals ile daima efsane olmaya devam et. Marka, rahat retro tarzına rağmen tekrar tekrar bizi statükoyu sorgulamaya teşvik ediyor. Performance, stilinden ödün vermek istemeyen sporcular için tasarlandı; bu seri net performans odaklı retro tasarımlarla öne çıkar. Koşullardan bağımsız güvenebileceğin performans ile işlevsel tasarımı bir arada mı arıyorsun? adidas Terrex, tamamen outdoor aktivitelerine odaklanmış olmasıyla en mükemmel yoldaşındır. Disney, UltraBoost ve Ozweego koleksiyonlarında spor ayakkabılar bulacaksın. NMD koleksiyonu, giyim ürünleri, ayakkabılar veya aksesuarlar ile, markamızın mirasını inovatif tasarımla bir araya getirir. Koşu stiliyle kentli görünümü yarat. adidas, sporcular ve sneaker tutkunları arasında popülerdir. İhtiyaçların doğrultusunda geliştirilmiş çeşitli modellerle seni destekliyoruz. adidas ayakkabılar, beyaz, mavi, turuncu ve birçok farklı renk seçeneğinde mevcuttur.
                 </div>
                 <div className='border rounded-full cursor-pointer text-2xl w-[200px] h-16  flex items-center justify-center  bg-gray-200'>İncele</div>
             </div>
